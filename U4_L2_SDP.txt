@@ -1,0 +1,2 @@
+>--- Question 1
+     A stack can only accessed at the end, if you add to a string from the correct direction of a stack it will appear backwards because it takes from the end first or the last thing that was put in. Like if you push in E A then print those things out it would be A E because A was the last thing added to the stack
